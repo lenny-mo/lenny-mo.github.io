@@ -1,4 +1,16 @@
 # Lenny Mo(莫林立)
+
+## Education
+* Xi'an Jiaotong-Liverpool University, Mphil in Pattern Reconition and Inteligent Systems, 2022-2024
+* Beijing Forestry University, B.E. in Computer Science and Technology(Innovative Experimental Class), 2015-2019
+
+## Working Experience
+sdfsd ds df
+
+## Publications
+* dfd dfd
+* f ds ds d
+* df dsa 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lenny-mo/lennymo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
