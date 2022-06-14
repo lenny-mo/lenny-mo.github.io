@@ -4,13 +4,20 @@
 * M.Phil in Pattern Reconition and Inteligent Systems, Xi'an Jiaotong-Liverpool University, 2022-2024
 * B.Eng in Computer Science(Innovative Experimental Class), Beijing Forestry University, 2015-2019
 
-## Working Experience
-sdfsd ds df
+
 
 ## Publications
 * dfd dfd
 * f ds ds d
 * df dsa 
+
+## Industry Experiences
+sdfsd ds df
+
+
+## Internships
+sdfsd ds df
+
 
 ### Markdown
 
