@@ -1,8 +1,8 @@
 # Lenny Mo(莫林立)
 
 ## Education
-* Xi'an Jiaotong-Liverpool University, Mphil in Pattern Reconition and Inteligent Systems, 2022-2024
-* Beijing Forestry University, B.E. in Computer Science and Technology(Innovative Experimental Class), 2015-2019
+* M.Phil in Pattern Reconition and Inteligent Systems, Xi'an Jiaotong-Liverpool University, 2022-2024
+* B.Eng in Computer Science(Innovative Experimental Class), Beijing Forestry University, 2015-2019
 
 ## Working Experience
 sdfsd ds df
