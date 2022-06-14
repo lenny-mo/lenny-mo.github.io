@@ -16,8 +16,9 @@ sdfsd ds df
 
 
 ## Internships
-Tsinghua University, IAR group  
-Machine Learning Engineer | 04/2017-03/2018,Beijing,China  
+Tsinghua University IAR group  
+Beijing,China. 
+Machine Learning Engineer | 04/2017-03/2018 
 Text sentiment analysis and multimodal sentiment analysis.  
 
 
