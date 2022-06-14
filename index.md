@@ -19,7 +19,7 @@ sdfsd ds df
 **Tsinghua University IAR group**  <br>
 Beijing,China<br>
 Machine Learning Engineer | 04/2017-03/2018<br>
-Text sentiment analysis and multimodal sentiment analysis.  
+*Text sentiment analysis and multimodal sentiment analysis.*  
 
 
 ### Markdown
