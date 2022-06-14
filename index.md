@@ -25,6 +25,9 @@ Machine Learning Engineer | 04/2017-03/2018<br>
 *Text sentiment analysis and multimodal sentiment analysis.*  
 
 
+## Gap Year
+Doing | 02/2020-12/2021 <br>
+
 ## Services
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
