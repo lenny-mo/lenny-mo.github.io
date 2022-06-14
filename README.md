@@ -1,2 +1,2 @@
-# lennymo.github.io
+# lenny-mo.github.io
 personal website
