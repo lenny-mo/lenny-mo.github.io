@@ -1,6 +1,6 @@
 # Lenny Mo(莫林立)
 
-## Intro
+## Biography
 sdhid 
 
 ## Education
